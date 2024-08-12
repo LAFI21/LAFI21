@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LAFI21
 - 👀 I’m interested in Data Science and Analysis
-- 🌱 I’m currently learning Data Science course from IBM.
+- 🌱 I’m taking an IBM Data Science & AI course.
 - 💞️ I’m looking to collaborate on various new skills relared to Analytics and Data science.
 - 📫 How to reach me - lafi21@gmail.com
 - 😄 Pronouns: She/her
